@@ -340,6 +340,7 @@ body {
       text-align: center;
       font-size: x-large; }
 
+/*
 .radio_G {
   width: 40%;
   margin: auto; }
@@ -373,6 +374,7 @@ body {
     opacity: 0; }
   .radio_G .option input:checked ~ label::before {
     opacity: 1; }
+*/
 
 .consei {
   width: 50%;
